@@ -15,21 +15,6 @@ Welcome to my showcase website! This repository contains the code and content fo
 
 This website serves as a portfolio, providing information about who I am, my skills, and my journey in the world of web development.
 
-## Projects
-
-### Project 1: [Project Name](project1/index.html)
-
-- Description: Brief description of the project.
-- Technologies: List of technologies used.
-- [Live Demo](project1/demo)
-- ![Project 1 Screenshot](project1/screenshot.png)
-
-### Project 2: [Project Name](project2/index.html)
-
-- Description: Brief description of the project.
-- Technologies: List of technologies used.
-- [Live Demo](project2/demo)
-- ![Project 2 Screenshot](project2/screenshot.png)
 
 Feel free to explore more projects in the [Projects](projects) directory.
 
