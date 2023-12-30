@@ -14,8 +14,6 @@ Welcome to my showcase website! This repository contains the code and content fo
 
 This website serves as a portfolio, providing information about who I am, my skills, and my journey in the world of web development.
 
-Feel free to explore more projects in the [Projects](projects) directory.
-
 ## Contact
 
 If you have any inquiries, want to collaborate, or just chat, feel free to reach out:
