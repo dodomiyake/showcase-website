@@ -24,5 +24,3 @@ If you have any inquiries, want to collaborate, or just chat, feel free to reach
 Looking forward to connecting with you!
 
 ---
-
-**Note:** Include actual screenshots and update the links with your project details.
