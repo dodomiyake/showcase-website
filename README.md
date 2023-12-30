@@ -5,7 +5,6 @@ Welcome to my showcase website! This repository contains the code and content fo
 ## Table of Contents
 
 - [About](#about)
-- [Projects](#projects)
 - [Contact](#contact)
 
 ## About
@@ -14,7 +13,6 @@ Welcome to my showcase website! This repository contains the code and content fo
 
 
 This website serves as a portfolio, providing information about who I am, my skills, and my journey in the world of web development.
-
 
 Feel free to explore more projects in the [Projects](projects) directory.
 
